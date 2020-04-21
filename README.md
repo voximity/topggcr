@@ -1,6 +1,6 @@
 # topggcr
 
-This is an API wrapper for [top.gg's API.](https://top.gg/api/docs). It supports most endpoints, as well as has a built-in webhook server
+This is an API wrapper for [top.gg's API](https://top.gg/api/docs). It supports most endpoints, as well as has a built-in webhook server
 to listen to Top.GG's vote webhooks.
 
 ## Usage
@@ -65,3 +65,11 @@ server.start
 ### Unsupported endpoints
 
 - GET `/bots` (TODO)
+
+## Contributing
+
+Feel free. I made this project rather quickly.
+
+## Docs
+
+Run `crystal docs`.
